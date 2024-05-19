@@ -32,7 +32,6 @@ INSTALLED_APPS = [
     "common",
     "config",
     "lessons",
-    "profiles",
     "schedule",
 ]
 
