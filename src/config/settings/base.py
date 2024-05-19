@@ -28,11 +28,12 @@ INSTALLED_APPS = [
     "accounts",
     "api",
     "blog",
-    "cabinet",
+    "chat",
     "common",
-    "forum",
+    "config",
     "lessons",
-    "shop",
+    "profiles",
+    "schedule",
 ]
 
 MIDDLEWARE = [
